@@ -1,5 +1,5 @@
 # mohan
 This is my first Git Repository.
 <br>
-Author - Mohan Chavan
+Author - Mohan Chavan (Trainee)
 
